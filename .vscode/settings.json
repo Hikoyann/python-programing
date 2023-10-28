@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/Users/kadotamitsuya/anaconda3/envs/python_programing",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
